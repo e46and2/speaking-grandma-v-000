@@ -1,5 +1,4 @@
 # Write a speak_to_grandma method.
-say = " "
 
 def speak_to_grandma(say)
   if "#{say}" == "I LOVE YOU GRANDMA!"

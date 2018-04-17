@@ -3,6 +3,7 @@ say = " "
 
 def speak_to_grandma(say)
   if "#{say}" == "#{say}".upcase
+    puts "HUH?! SPEAK UP, SONNY!"
 end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!

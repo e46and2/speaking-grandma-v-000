@@ -4,9 +4,9 @@ def speak_to_grandma(say)
   if "#{say}" == "I LOVE YOU GRANDMA!"
     say = "I LOVE YOU TOO PUMPKIN!"
   elsif "#{say}" == "#{say}".upcase
-    puts say = "HUH?! SPEAK UP, SONNY!"
+    say = "HUH?! SPEAK UP, SONNY!"
   else 
-    puts say = "NO, NOT SINCE 1938!"
+    say = "NO, NOT SINCE 1938!"
   end
 end
 # Whatever you say to grandma, she should respond with

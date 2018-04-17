@@ -2,7 +2,7 @@
 say = " "
 
 def speak_to_grandma(say)
-  if "#{say}.to_lower"
+  if "#{say}" == "#{say}.upcase"
 end
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
